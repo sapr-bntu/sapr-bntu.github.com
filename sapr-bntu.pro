@@ -5,4 +5,5 @@ DEPLOYMENTFOLDERS = folder_01
 OTHER_FILES += \
     index.html \
     contact.html \
-    about.html
+    about.html \
+    107518-28.html
